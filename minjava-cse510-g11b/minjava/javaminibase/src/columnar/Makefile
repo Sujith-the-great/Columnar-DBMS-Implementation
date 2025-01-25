@@ -1,0 +1,28 @@
+JDKPATH = C:/Program Files/Eclipse Adoptium/jdk-21.0.2.13-hotspot/
+LIBPATH = $(JDKPATH)/lib/;.;..;$(LIBPATH)
+CLASSPATH = $(JDKPATH)/lib/classes.zip;.;..;$(LIBPATH)
+BINPATH = $(JDKPATH)/bin
+JAVAC = $(JDKPATH)/bin/javac -classpath $(CLASSPATH)
+JAVA  = $(JDKPATH)/bin/java  -classpath $(CLASSPATH)
+
+PROGS = together
+
+all: $(PROGS)
+
+hf:Columnarfile.java
+	$(JAVAC) Columnarfile.java
+
+hp:CFException.java
+	$(JAVAC) CFException.java
+
+tuple:TupleScan.java
+	$(JAVAC) TupleScan.java
+
+scan:ValueClassIntf.java
+	$(JAVAC) ValueClassIntf.java
+
+together:*.java
+	$(JAVAC) *.java
+
+clean:
+	\rm -f *.class *~ \#* core 

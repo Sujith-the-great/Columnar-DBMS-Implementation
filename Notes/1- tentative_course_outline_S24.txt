@@ -1,0 +1,73 @@
+-------------------------------------------------------
+For material not in the book, you are responsible primarily 
+about what has been discussed in the class
+------------------------------------------------------
+
++ Data/Database/Data Processing Models
+     - 1st, 2nd, 3rd, and 4th gen data models
+     - Relational
+     - Object Oriented
+     - Object Relational
+     - Semi-structured
+     - Graph-structured
+     - Row-store, column-store
+
++ Disks
+     - Book: Storing Data Disks and Files - Chapter 9 (except 9.4)
+
++ File systems
+
+    - Book: Overview of Storage and Indexing - Chapter 8
+    - Book: Tree Structured Indexing - Chapter 10
+    - Book: Hash-based Indexing - Chapter 11
+    - Hash Indexing notes
+    - Access cost model notes from the book
+
++ Buffer Management
+    - Buffer management notes from the book
+    - Clock Algorithm
+    - Note for DB-oriented buffer management techniques 
+
++ Overview of Query Evaluation - Chapter 12
+      
++ External Sorting - Chapter 13
+
++ Evaluating Relational Operators - Chapter 14
+
++ A Typical Relational Query Optimizer - Chapter 15
+
+    - additional query optimization notes
+
+
++ Transaction Management - Chapter 16
+
++ Concurrency Control - Chapter 17 
+
++ Crash Recovery - Chapter 18 (parts covered in the class)
+
+
+Supporting reading material (links available at Ed Discussion):
+
+       - The End of a DBMS Era (Might be Upon Us)"  by Michael Sonebreaker; 
+
+       - “The Claremont Report on Database Research” 
+
+       - The three OO and OR manifestos 
+
+       - Daniel J. Abadi, Peter A. Boncz, and Stavros Harizopoulos. Column-oriented Database Systems.  
+
+       - D. J. Abadi, S. R. Madden, N. Hachem, Column-Stores vs. Row-Stores: How Different are They Really? 
+
+       - Fay Chang, Jeffrey Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach, Mike Burrows, Tushar Chandra, Andrew Fikes, and Robert E. Gruber. 2008. Bigtable: A Distributed Storage System for Structured Data.
+
+       - H. Chou and D. DeWitt, "An Evaluation of Buffer Management Strategies for Relational Database Systems", Proc. of 11th VLDB Conf., August 1985 
+
+       - P. Griffiths Selinger, M. M. Astrahan, D. D. Chamberlin, 
+	R. A. Lorie ,and T. G. Price. Access path selection in a relational 
+	database management system, 1979 ACM SIGMOD. 
+
+       - Guy Lohman. "Is Query Optimization a “Solved” Problem?" ACM SIGMOD Blog
+ 	http://wp.sigmod.org/?p=1075
+
+
+       - Reading materials related to the project 

@@ -1,0 +1,5 @@
+A:char(25)	B:char(25)	C:int	D:int
+South_Dakota	West_Virginia	6	3
+Connecticut	Delaware	8	8
+New_Hampshire	Kansas	2	1
+Connecticut	Puerto_Rico	4	9

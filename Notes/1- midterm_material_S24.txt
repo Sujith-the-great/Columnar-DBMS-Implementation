@@ -1,0 +1,39 @@
+-------------------------------------------------------
+For material not in the book, you are responsible primarily 
+about what has been discussed in the class
+------------------------------------------------------
+
+Data/Database/Data Processing Models
+     - 1st, 2nd, 3rd, and 4th gen data models
+     - Relational
+     - Object Oriented
+     - Object Relational
+     - Semi-structured
+     - Graph-structured
+     - Row-store, column-store
+
+Disks
+     - Book: Storing Data Disks and Files - Chapter 9 (except 9.4)
+
+File systems
+
+    - Book: Overview of Storage and Indexing - Chapter 8
+    - Book: Tree Structured Indexing - Chapter 10
+    - Book: Hash-based Indexing - Chapter 11
+    - Bitmap Indexing notes
+    - Hash Indexing notes
+    - Access cost model notes from the book
+
+Buffer Management
+    - Buffer management notes from the book
+    - Clock Algorithm
+    - Note for DB-oriented buffer management techniques 
+
+Overview of Query Evaluation - Chapter 12
+      
+External Sorting - Chapter 13
+
+
+--
+
+Supporting reading materials (links available at Ed Discussion)

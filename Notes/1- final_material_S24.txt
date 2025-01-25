@@ -1,0 +1,29 @@
+For material not in book, you can focus on the notes!!
+------------------------------------------------------
+
+Evaluating Relational Operators - Chapter 14
+
+A Typical Relational Query Optimizer - Chapter 15
+
+Query optimization notes
+	
+	- P. Griffiths Selinger, M. M. Astrahan, D. D. Chamberlin, 
+	R. A. Lorie ,and T. G. Price. Access path selection in a relational 
+	database management system, 1979 ACM SIGMOD. 
+
+       - Guy Lohman. "Is Query Optimization a “Solved” Problem?" ACM SIGMOD Blog
+ 	http://wp.sigmod.org/?p=1075
+
+
+Transaction Management - Chapter 16
+
+Concurrency Control - Chapter 17 
+
+Crash Recovery - Chapter 18 (parts covered in the class)
+
+Distributed Databases - Chapter 22 (parts covered in the class)
+
+Quorums - notes
+
+
+Reading materials included in the course web site and course notes
